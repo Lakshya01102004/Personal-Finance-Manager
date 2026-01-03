@@ -1,0 +1,8 @@
+# No external dependencies required
+# Uses only Python Standard Library:
+# - csv (file handling)
+# - datetime (date validation) 
+# - os (directory operations)
+# - collections.defaultdict (category summary)
+
+# To run: python main.py
